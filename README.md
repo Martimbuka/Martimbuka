@@ -2,7 +2,7 @@
 
 <p align="center">
 <img src="https://badges.pufler.dev/repos/Martimbuka"/>
-<img src="https://badges.pufler.dev/commits/monthly/Martimbuka" />
+<img src="https://badges.pufler.dev/years/Martimbuka"/>
 </p>
   
 <p align="center">
@@ -12,11 +12,13 @@ Hi there, my name is Martin and I am second year student pursuing Bachelor's in 
 <h2 align="center">Technology Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-JUnit-red?style=flat-square&logo=junit5"/>
+<img src="https://img.shields.io/badge/-Mockito-green?style=flat-square&logo=mockito"/>
 <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
 <img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
 <img src="https://img.shields.io/badge/-vscode-blue?style=flat-square&logo=visual studio code"/>
-  <img src="https://img.shields.io/badge/-haskell-purple?style=flat-square&logo=haskell"/>
+<img src="https://img.shields.io/badge/-haskell-purple?style=flat-square&logo=haskell"/>
 </p>
 <!--
 **Martimbuka/Martimbuka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
